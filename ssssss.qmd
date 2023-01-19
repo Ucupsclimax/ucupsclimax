@@ -1,0 +1,32 @@
+---
+title: "qtest"
+format: html
+editor: visual
+---
+
+# judul
+
+bla bla blaa
+
+#### apalah {style="e.g.color:gray:"}
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+asdmakmsd
+
+![vvbvbvb](Rplot.png)
+
+aa
+
+\[![](Rplot01.png){fig-alt="Alt text"}\]
+
+adaasdasdwad asd awd asd awda ###Apalasa
+
+-   ![](images/poltekapp.jpg)unordered list
+    -   sub-item 1
+    -   sub-item 2
+        -   sub-sub-item 1
